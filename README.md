@@ -37,7 +37,7 @@
 
 - Best practices such as input validation, secure coding guidelines, and regular security updates were followed.
 
-## Examples for Future Employers:
+## Project conclusion
 
 - This project showcases my ability to identify and mitigate security vulnerabilities, implement secure coding practices, and ensure the functionality and security of software applications.
 
